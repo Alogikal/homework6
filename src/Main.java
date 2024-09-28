@@ -6,6 +6,7 @@ public class Main {
         System.out.println("--------------------------");
         for ( int i = 1; i <=10; i++ ) {
             System.out.print(" " + i);
+
         }
         System.out.println("\n" + "--------------------------" + "\n");
 
@@ -77,5 +78,5 @@ public class Main {
             System.out.print(" " + (l * 2));
         }
         System.out.println("\n" + "--------------------------" + "\n");
-         }
+    }
 }
