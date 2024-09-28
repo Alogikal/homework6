@@ -1,4 +1,3 @@
-
 public class Main {
     public static void main(String[] args) {
 
@@ -78,5 +77,5 @@ public class Main {
             System.out.print(" " + (l * 2));
         }
         System.out.println("\n" + "--------------------------" + "\n");
-         }
+    }
 }
